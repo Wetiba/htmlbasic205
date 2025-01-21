@@ -1,0 +1,15 @@
+h2{
+    color: #ce1bf6;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+td,th{
+    border: solid blue 2px;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
